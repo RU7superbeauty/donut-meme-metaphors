@@ -1,0 +1,227 @@
+{
+  "metaphors": [
+    {
+      "id": "just-say-it",
+      "product": "Natural-language order on Telegram - type it, D0 places it",
+      "visual": "speech / command becoming a physical trade object; hands almost touching a donut ring",
+      "captions": {
+        "en": [
+          "just say it",
+          "type it.",
+          "said. placed.",
+          "one sentence"
+        ],
+        "zh": [
+          "一句话",
+          "打字即下单",
+          "说完就成交",
+          "一句就行"
+        ]
+      },
+      "best_sources": [
+        "creation-of-adam",
+        "mona-lisa",
+        "trading-floor-pit"
+      ],
+      "avoid": "promising profit, showing filled PnL"
+    },
+    {
+      "id": "agent-does-work",
+      "product": "D0 as the agent that executes while you stay in chat",
+      "visual": "butler / autopilot / workers building rings you never touch",
+      "captions": {
+        "en": [
+          "we got it",
+          "hands free",
+          "agent on",
+          "you talk. we trade."
+        ],
+        "zh": [
+          "你说，它做",
+          "代理出手",
+          "不用盯盘",
+          "交给 D0"
+        ]
+      },
+      "best_sources": [
+        "ww2-assembly-line",
+        "easy-rider",
+        "magritte-listening-room"
+      ],
+      "avoid": "lazy / passive-income framing"
+    },
+    {
+      "id": "whale-alert",
+      "product": "Whale / smart-money alerts",
+      "visual": "whale as literal animal or knockout dominance; color only on brand",
+      "captions": {
+        "en": [
+          "whale up",
+          "they moved",
+          "follow the size",
+          "loud money"
+        ],
+        "zh": [
+          "鲸鱼动了",
+          "大单来了",
+          "盯巨鲸",
+          "聪明钱"
+        ]
+      },
+      "best_sources": [
+        "dali-elephants",
+        "ali-liston",
+        "magritte-listening-room"
+      ],
+      "avoid": "guaranteeing copy-trade success"
+    },
+    {
+      "id": "conviction",
+      "product": "High-conviction stance / signal culture (workflow, not outcome)",
+      "visual": "knockout pose, riding the round object, raised paddle",
+      "captions": {
+        "en": [
+          "conviction",
+          "all in view",
+          "no blur",
+          "clear side"
+        ],
+        "zh": [
+          "信念单",
+          "看得清",
+          "站这一边",
+          "不模糊"
+        ]
+      },
+      "best_sources": [
+        "ali-liston",
+        "dr-strangelove-bomb",
+        "tyson-era"
+      ],
+      "avoid": "guaranteed win"
+    },
+    {
+      "id": "around-the-markets",
+      "product": "Multi-market access (crypto, prediction, etc. as shipped)",
+      "visual": "global motif, duo flanking a ring, passport / world pun",
+      "captions": {
+        "en": [
+          "around the world",
+          "every book",
+          "one chat. many markets.",
+          "global desk"
+        ],
+        "zh": [
+          "环球盘口",
+          "一个聊天框",
+          "多市场",
+          "世界书"
+        ]
+      },
+      "best_sources": [
+        "daft-punk-around",
+        "chaplin-great-dictator",
+        "mona-lisa"
+      ],
+      "avoid": "claiming every market on earth if not true"
+    },
+    {
+      "id": "odds-ring",
+      "product": "Prediction / odds / YES-NO style thinking (when applicable)",
+      "visual": "donut as probability ring, crystal-ball substitute, infinity in glaze",
+      "captions": {
+        "en": [
+          "price the future",
+          "yes or no",
+          "the ring knows",
+          "odds, not vibes"
+        ],
+        "zh": [
+          "给未来定价",
+          "是或否",
+          "盘口说话",
+          "概率环"
+        ]
+      },
+      "best_sources": [
+        "mona-lisa",
+        "brueghel-tulip",
+        "hogarth-south-sea"
+      ],
+      "avoid": "implying oracle certainty"
+    },
+    {
+      "id": "wall-street-carnival",
+      "product": "Markets as spectacle; Donut as the cooler desk in the chaos",
+      "visual": "excess office party with one calm brand object",
+      "captions": {
+        "en": [
+          "the donut of wall street",
+          "still trading",
+          "chaos. clarity.",
+          "desk, but chat"
+        ],
+        "zh": [
+          "甜甜圈华尔街",
+          "热闹里下单",
+          "混乱中的清晰",
+          "聊天即交易台"
+        ]
+      },
+      "best_sources": [
+        "wolf-of-wall-street",
+        "trading-floor-pit",
+        "pulp-fiction-mia"
+      ],
+      "avoid": "glorifying fraud; keep satirical distance"
+    },
+    {
+      "id": "hype-scarce",
+      "product": "Cultural heat / drop energy without fake scarcity claims",
+      "visual": "Supreme-like corner mark energy; one object, huge negative space",
+      "captions": {
+        "en": [
+          "DONUT",
+          "D0",
+          "dropped.",
+          "you saw it first"
+        ],
+        "zh": [
+          "DONUT",
+          "D0",
+          "上了",
+          "你先看到"
+        ]
+      },
+      "best_sources": [
+        "dr-strangelove-bomb",
+        "pulp-fiction-mia",
+        "tyson-era"
+      ],
+      "avoid": "fake limited edition lies"
+    },
+    {
+      "id": "rumor-to-order",
+      "product": "From chatter to an executable sentence",
+      "visual": "quiet figure holding the ring while the world watches / whispers",
+      "captions": {
+        "en": [
+          "the rumors are orders",
+          "heard. typed.",
+          "watching to trading"
+        ],
+        "zh": [
+          "传闻变指令",
+          "听到就下",
+          "围观变下单"
+        ]
+      },
+      "best_sources": [
+        "mona-lisa",
+        "wolf-of-wall-street",
+        "creation-of-adam"
+      ],
+      "avoid": "spreading fake rumors as content"
+    }
+  ]
+}

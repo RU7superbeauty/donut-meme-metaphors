@@ -1,0 +1,260 @@
+{
+  "sources": [
+    {
+      "id": "mona-lisa",
+      "title": "Mona Lisa",
+      "author": "Leonardo da Vinci",
+      "year": "c.1503",
+      "type": "painting",
+      "motif": "seated woman holding something in her lap, sfumato landscape, enigmatic calm",
+      "why": "highest-recognition Western portrait; mystery of what she holds = product tease",
+      "insert_slot": "object_in_hands",
+      "confidence": "strong",
+      "tags": [
+        "art",
+        "mystery",
+        "timeless"
+      ]
+    },
+    {
+      "id": "creation-of-adam",
+      "title": "The Creation of Adam (hands detail)",
+      "author": "Michelangelo",
+      "year": "c.1512",
+      "type": "painting",
+      "motif": "two hands almost touching across empty space",
+      "why": "just say it - intention becoming action; command bridging human and agent",
+      "insert_slot": "between_hands",
+      "confidence": "strong",
+      "tags": [
+        "art",
+        "genesis",
+        "command"
+      ]
+    },
+    {
+      "id": "dali-elephants",
+      "title": "The Elephants (motif)",
+      "author": "Salvador Dali",
+      "year": 1948,
+      "type": "painting",
+      "motif": "impossible giant creature in empty or urban space, long-legged surreal weight",
+      "why": "elephant in the room / too-big-to-ignore market; street surrealism",
+      "insert_slot": "creature_body_or_held_object",
+      "confidence": "medium",
+      "tags": [
+        "art",
+        "surreal",
+        "elephant"
+      ]
+    },
+    {
+      "id": "magritte-listening-room",
+      "title": "The Listening Room / oversized object motif",
+      "author": "Rene Magritte",
+      "year": 1952,
+      "type": "painting",
+      "motif": "ordinary room dominated by one absurdly large object",
+      "why": "brand ring as the only thing that matters in the frame",
+      "insert_slot": "oversized_center",
+      "confidence": "strong",
+      "tags": [
+        "art",
+        "surreal",
+        "scale"
+      ]
+    },
+    {
+      "id": "brueghel-tulip",
+      "title": "Satire on Tulip Mania (motif)",
+      "author": "Jan Brueghel the Younger",
+      "year": "c.1640",
+      "type": "painting",
+      "motif": "crowded speculative marketplace, absurd traders, boom-and-bust satire",
+      "why": "prediction / speculation ancestry; markets as theater",
+      "insert_slot": "traded_object",
+      "confidence": "medium",
+      "tags": [
+        "art",
+        "finance-history",
+        "bubble"
+      ]
+    },
+    {
+      "id": "hogarth-south-sea",
+      "title": "The South Sea Scheme (motif)",
+      "author": "William Hogarth",
+      "year": 1721,
+      "type": "print",
+      "motif": "London crowd, merry-go-round of speculation, satire of financial folly",
+      "why": "classic visual critique of betting on narratives",
+      "insert_slot": "center_fetish_object",
+      "confidence": "medium",
+      "tags": [
+        "art",
+        "finance-history",
+        "satire"
+      ]
+    },
+    {
+      "id": "wolf-of-wall-street",
+      "title": "The Wolf of Wall Street (office excess motif)",
+      "author": "Martin Scorsese / film still language",
+      "year": 2013,
+      "type": "film",
+      "motif": "pinstripe suit figure amid confetti, chaos, marching-band office party",
+      "why": "speculation carnival; title pun energy",
+      "insert_slot": "head_or_held_object",
+      "confidence": "strong",
+      "tags": [
+        "film",
+        "finance",
+        "excess"
+      ]
+    },
+    {
+      "id": "dr-strangelove-bomb",
+      "title": "Dr. Strangelove - riding the bomb",
+      "author": "Stanley Kubrick",
+      "year": 1964,
+      "type": "film",
+      "motif": "man triumphantly riding a falling/rising round weapon like a rodeo",
+      "why": "riding the bubble / riding the market; black comedy of conviction",
+      "insert_slot": "ridden_object",
+      "confidence": "strong",
+      "tags": [
+        "film",
+        "bubble",
+        "conviction"
+      ]
+    },
+    {
+      "id": "chaplin-great-dictator",
+      "title": "The Great Dictator - globe ballet motif",
+      "author": "Charlie Chaplin",
+      "year": 1940,
+      "type": "film",
+      "motif": "figure playfully balancing / dancing with a globe",
+      "why": "the world as toy; donut-as-globe pun",
+      "insert_slot": "balanced_globe",
+      "confidence": "medium",
+      "tags": [
+        "film",
+        "world",
+        "power"
+      ]
+    },
+    {
+      "id": "easy-rider",
+      "title": "Easy Rider (road freedom motif)",
+      "author": "Dennis Hopper",
+      "year": 1969,
+      "type": "film",
+      "motif": "two riders on open road under big sky",
+      "why": "departure / to-the-moon energy without crypto neon",
+      "insert_slot": "sky_object_or_helmet",
+      "confidence": "medium",
+      "tags": [
+        "film",
+        "journey",
+        "moon"
+      ]
+    },
+    {
+      "id": "pulp-fiction-mia",
+      "title": "Pulp Fiction - cool portrait + car motif",
+      "author": "Quentin Tarantino",
+      "year": 1994,
+      "type": "film",
+      "motif": "low-angle cool figure with iconic car, 90s poster stillness",
+      "why": "lifestyle flex; When-Lambo adjacent without saying it",
+      "insert_slot": "prop_or_plate",
+      "confidence": "medium",
+      "tags": [
+        "film",
+        "cool",
+        "wealth"
+      ]
+    },
+    {
+      "id": "daft-punk-around",
+      "title": "Daft Punk - Around the World promo motif",
+      "author": "Daft Punk",
+      "year": 1997,
+      "type": "music",
+      "motif": "two helmeted figures flanking a central orb in open landscape",
+      "why": "literal brand pun on global markets; electronic cool",
+      "insert_slot": "center_orb",
+      "confidence": "strong",
+      "tags": [
+        "music",
+        "world",
+        "duo"
+      ]
+    },
+    {
+      "id": "ali-liston",
+      "title": "Ali vs Liston knockout (Neil Leifer)",
+      "author": "Neil Leifer",
+      "year": 1965,
+      "type": "sports-photo",
+      "motif": "standing champion over fallen opponent in B&W ring, gloves as focus",
+      "why": "absolute win / conviction; color only the gloves",
+      "insert_slot": "gloves_colorize",
+      "confidence": "strong",
+      "tags": [
+        "sports",
+        "win",
+        "conviction"
+      ]
+    },
+    {
+      "id": "tyson-era",
+      "title": "Mike Tyson 90s excess tableau",
+      "author": "cultural montage",
+      "year": "1990s",
+      "type": "cultural",
+      "motif": "boxer, exotic cat, supercar on private grass",
+      "why": "winning lifestyle pack; plate or wrap carries brand",
+      "insert_slot": "plate_or_wrap",
+      "confidence": "medium",
+      "tags": [
+        "sports",
+        "wealth",
+        "90s"
+      ]
+    },
+    {
+      "id": "ww2-assembly-line",
+      "title": "Mid-century factory assembly line photo",
+      "author": "industrial documentary photography",
+      "year": "1940s",
+      "type": "photo",
+      "motif": "B&W workers bent over long bench assembling identical parts",
+      "why": "mass-producing probability / orders; industrial to agentic labor",
+      "insert_slot": "parts_on_bench",
+      "confidence": "strong",
+      "tags": [
+        "photo",
+        "labor",
+        "scale"
+      ]
+    },
+    {
+      "id": "trading-floor-pit",
+      "title": "Open outcry trading pit (motif)",
+      "author": "financial news photography",
+      "year": "1980s-90s",
+      "type": "photo",
+      "motif": "crowded pit, hands in air, paper tickets flying",
+      "why": "old ritual of betting replaced by one Telegram sentence",
+      "insert_slot": "held_ticket_or_center",
+      "confidence": "medium",
+      "tags": [
+        "finance",
+        "ritual",
+        "contrast"
+      ]
+    }
+  ]
+}

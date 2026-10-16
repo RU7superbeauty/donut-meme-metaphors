@@ -1,0 +1,2 @@
+# Runtime uses stdlib JSON by default.
+# Optional: PyYAML>=6.0.1  if you add catalog/*.yaml instead of *.json

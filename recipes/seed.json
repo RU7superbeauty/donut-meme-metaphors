@@ -1,0 +1,58 @@
+[
+  {
+    "source": "mona-lisa",
+    "metaphor": "just-say-it",
+    "caption": "just say it",
+    "priority": 1,
+    "note": "Flagship mystery × command"
+  },
+  {
+    "source": "creation-of-adam",
+    "metaphor": "just-say-it",
+    "caption": "said. placed.",
+    "priority": 1,
+    "note": "Core product myth"
+  },
+  {
+    "source": "ali-liston",
+    "metaphor": "conviction",
+    "caption": "clear side",
+    "priority": 1,
+    "note": "B&W + glove colorize"
+  },
+  {
+    "source": "ww2-assembly-line",
+    "metaphor": "agent-does-work",
+    "caption": "you talk. we trade.",
+    "priority": 1,
+    "note": "Industrial labor → agent labor"
+  },
+  {
+    "source": "daft-punk-around",
+    "metaphor": "around-the-markets",
+    "caption": "around the world",
+    "priority": 2,
+    "note": "Global markets pun"
+  },
+  {
+    "source": "dr-strangelove-bomb",
+    "metaphor": "conviction",
+    "caption": "DONUT",
+    "priority": 2,
+    "note": "Riding the ring / hype-scarce energy"
+  },
+  {
+    "source": "wolf-of-wall-street",
+    "metaphor": "wall-street-carnival",
+    "caption": "chaos. clarity.",
+    "priority": 2,
+    "note": "Satire distance required"
+  },
+  {
+    "source": "trading-floor-pit",
+    "metaphor": "just-say-it",
+    "caption": "one sentence",
+    "priority": 2,
+    "note": "Old ritual vs Telegram sentence"
+  }
+]
